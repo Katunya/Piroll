@@ -382,7 +382,8 @@ h2 {
 .header {
   background-position: center;
   background-size: cover;
-  padding: 4rem 0 20rem; }
+  padding: 4rem 0 20rem;
+background-image: url("../img/cup.jpg");}
   @media only screen and (max-width: 37.5em) {
     .header {
       background: #e9e9e9;
